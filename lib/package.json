@@ -61,7 +61,7 @@
     "axios": "^1.2.2",
     "esbuild": "^0.18.2",
     "nodemon": "^3.0.1",
-    "rollup": "^2.45.2",
+    "rollup": "^2.80.0",
     "rollup-plugin-esbuild": "^5.0.0",
     "rollup-plugin-import-css": "^2.0.1",
     "rollup-plugin-node-polyfills": "^0.2.1",
